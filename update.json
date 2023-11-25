@@ -1,6 +1,6 @@
 {
-    "versionCode": 2,
-    "versionName": "v2.9",
-    "changelog": ["Nuevos modulos de canales", "Nuevos canales", "ffmpeg libs", "optimize prebuffer", "change player layout", "Mucho mas.."],
-    "downloadUrl": "https://github.com/Zamphiropolos/NontonTVnew/releases/download/v2.9/com.tvplay.tv_v1.0_b1.apk"
+    "versionCode": 1,
+    "versionName": "v1.0",
+    "changelog": ["Nuevos modulos de canales", "Nuevos canales","nuevo link de descargas","ffmpeg libs", "optimize prebuffer", "change player layout", "Mucho mas.."],
+    "downloadUrl": "https://github.com/Zamphiropolos/update/releases/download/v1.0/com.tvplay.tv_v1.0_b1.apk"
 }
