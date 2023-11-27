@@ -35,13 +35,18 @@
       "name": "vix",
       "url": "https://www.telelatinohd.com/dragon-ball-super-24-horas-en-vivo.html",
       "logo": "https://i.imgur.com/NYFgbK1.png"
-    }
-    ,
- {
+    },
+     {
     "titulo": "TITULO",
       "name": "AGENDA",
       "url": "https://deportestvhd.com/agenda.php",
       "logo": "https://i.imgur.com/NYFgbK1.png"
+    },
+     {
+    "titulo": "EVENTO PY",
+      "name": "FUTBOL",
+      "url": "https://soccerlivepy.blogspot.com/p/app.html?m=1",
+      "logo": "https://i.imgur.com/MjWXBVG.png"
     }
   ]
 }
