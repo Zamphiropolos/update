@@ -1,37 +1,44 @@
 {
   "urls": [
     {
+      "titulo": "TITULO",
       "name": "FUTBOL PLAY",
       "url": "https://futbolplaytvhd.com/agenda.php",
       "logo": "https://i.ibb.co/1sK20pm/FAMUUUS.png"
     },
     {
+      "titulo": "TITULO",
       "name": "TRIBUNA NORTE",
       "url": "https://listadepartidos.blogspot.com/p/eventos-del-dia.html",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuE3Y0VMfEAcJjNzNZILmT6MksHiUrFXo9lORBPum5GIB23l32_il-C_d0AmuMdmW6guM&usqp=CAU"
     },
     {
+       "titulo": "TITULO",
       "name": "FUTBBOL LIBBRE",
       "url": "https://librefutboltv.com/ver/agenda/",
       "logo": "https://uploads-ssl.webflow.com/5b125a6e804c1f1811d564c3/5b1fbf7d1b1760fd3223d2fa_404-ball.png"
     },
     {
+       "titulo": "TITULO",
       "name": "Star+",
       "url": "https://sfndeportes.com/sar",
       "logo": "https://deportestvhd.com/img/logo-canal/logostarplus.png"
     },
     {
+       "titulo": "TITULO",
       "name": "vix",
       "url": "https://sfndeportes.com/vis",
       "logo": "https://deportestvhd.com/img/vixplus.png"
     },
  {
+    "titulo": "TITULO",
       "name": "vix",
       "url": "https://www.telelatinohd.com/dragon-ball-super-24-horas-en-vivo.html",
       "logo": "https://i.imgur.com/NYFgbK1.png"
     }
     ,
  {
+    "titulo": "TITULO",
       "name": "AGENDA",
       "url": "https://deportestvhd.com/agenda.php",
       "logo": "https://i.imgur.com/NYFgbK1.png"
