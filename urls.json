@@ -18,17 +18,25 @@
     {
       "name": "Star+",
       "url": "https://sfndeportes.com/sar",
-      "logo": "https://i.imgur.com/NYFgbK1.png"
+      "logo": "https://deportestvhd.com/img/logo-canal/logostarplus.png"
     },
     {
       "name": "vix",
       "url": "https://sfndeportes.com/vis",
-      "logo": "https://i.imgur.com/NYFgbK1.png"
+      "logo": "https://deportestvhd.com/img/vixplus.png"
     },
  {
       "name": "vix",
       "url": "https://www.telelatinohd.com/dragon-ball-super-24-horas-en-vivo.html",
       "logo": "https://i.imgur.com/NYFgbK1.png"
     }
+    ,
+ {
+      "name": "AGENDA",
+      "url": "https://deportestvhd.com/agenda.php",
+      "logo": "https://i.imgur.com/NYFgbK1.png"
+    }
   ]
 }
+
+
