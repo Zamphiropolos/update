@@ -47,6 +47,12 @@
       "name": "FUTBOL",
       "url": "https://soccerlivepy.blogspot.com/p/app.html?m=1",
       "logo": "https://i.imgur.com/MjWXBVG.png"
+    },
+     {
+    "titulo": "EVENTO PY",
+      "name": "AGENDA",
+      "url": "https://www.playdeportes.xyz/",
+      "logo": "https://i.imgur.com/MjWXBVG.png"
     }
   ]
 }
