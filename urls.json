@@ -1,9 +1,9 @@
 {
   "urls": [
-    "https://example.com",
-    "https://example2.com",
-    "https://futbolplaytvhd.com/agenda.php",
-    "https://otra-url.com"
-    // ... más URLs ...
-  ]
-}
+     {
+      "url": "https://example.com",
+      "logo": "https://example.com/logo.png"
+   },
+     // ... más URLs ...
+   ]
+ }
