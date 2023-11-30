@@ -1,6 +1,6 @@
 {
-    "versionCode": 2,
+    "versionCode": 3,
     "versionName": "v1.2",
     "changelog": ["Nuevos modulos de Eventos", "Nuevo login","Inicio diferente ","ffmpeg libs", "optimize prebuffer", "change player layout", "Mucho mas.."],
-    "downloadUrl": "https://github.com/Zamphiropolos/update/releases/download/v1.2/com.tvplay.tv_v1.2_b2.apk"
+    "downloadUrl": "https://github.com/Zamphiropolos/update/releases/download/v1.2/com.tvplay.tv_v1.2_b3.apk"
 }
